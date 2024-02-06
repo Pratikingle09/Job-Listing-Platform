@@ -1,0 +1,18 @@
+button {
+  width: 160px;
+  /* height: 28px; */
+  padding: 8px;
+  font-size: 20px;
+  background: #ed5353;
+  box-shadow: 0px 0px 0px 4px rgba(255, 255, 255, 0.01);
+  border-radius: 5px;
+  color: white;
+  border: none;
+  font-weight: 500;
+  margin-bottom: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+}
